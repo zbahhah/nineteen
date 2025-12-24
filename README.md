@@ -12,6 +12,12 @@ Over it are nineteen
 
 This study presents fascinating mathematical and physical discoveries about the prime number **19**, inviting all readers - regardless of cultural or religious background - to reflect on these remarkable numerical patterns.
 
+<p align="center">
+  <img src="references/over_it_ninteen.jpeg" alt="Over it are Nineteen - عليها تسعة عشر" width="600"/>
+</p>
+
+<p align="center"><em>"عَلَيْهَا تِسْعَةَ عَشَرَ" — "Over it are Nineteen" (Quran 74:30)</em></p>
+
 ---
 
 # Part I: Mathematical & Physical Discoveries
@@ -59,6 +65,12 @@ $$\pi + e_p = \frac{41}{7}$$
 
 > **Note:** 3, 7, 19, 22, 41 — all involve primes!
 
+<p align="center">
+  <img src="references/optimal_circle_1-3-7.jpeg" alt="Optimal Circle Packing 1-3-7" width="400"/>
+</p>
+
+<p align="center"><em>Optimal circle packing: 1 + 3 + 7 = 11, and 1 + 3 + 7 + 19 = 30</em></p>
+
 ---
 
 ## 1.3 Fundamental Physical Constants | الثوابت الفيزيائية الأساسية
@@ -80,6 +92,13 @@ $$\pi + e_p = \frac{41}{7}$$
 | Planck constant | h | $\frac{44 \times p^2}{7^4} \times 10^{-(p+15)}$ | 6.626 × 10⁻³⁴ J·s | 0.16% |
 | Reduced Planck | ℏ | $\frac{p^2}{7^3} \times 10^{-(p+15)}$ | 1.055 × 10⁻³⁴ J·s | 0.2% |
 | Boltzmann | $k_B$ | $\sqrt{\frac{p}{10}} \times 10^{-(p+4)}$ | 1.381 × 10⁻²³ J/K | 0.22% |
+
+<p align="center">
+  <img src="references/log-e.jpeg" alt="Logarithm and Euler's number" width="450"/>
+  <img src="references/ln-c.jpeg" alt="Natural logarithm and speed of light" width="450"/>
+</p>
+
+<p align="center"><em>Mathematical relationships: log(e) and ln(c) patterns</em></p>
 
 ---
 
@@ -127,6 +146,12 @@ $$\therefore \text{Digital Root}(k \times 19) = k \quad \forall k \in \{1,...,9\
 $$19 = 1 \times 9 + 1 + 9$$
 
 > **19 is the smallest prime** equal to (product of its digits) + (sum of its digits), where **both digits are non-prime!**
+
+<p align="center">
+  <img src="references/dodecagonal-19-circles.jpeg" alt="Dodecagonal 19 Circles Pattern" width="500"/>
+</p>
+
+<p align="center"><em>19 circles in a dodecagonal (12-sided) arrangement — a geometric representation of 19</em></p>
 
 ---
 
@@ -347,14 +372,14 @@ $$\boxed{\text{"سَأُصْلِيهِ سَقَرَ"}}$$
 │                          │                                          │
 │                          ▼                                          │
 │   📍 Verse 19 of Al-Muddathir — Verse 5514                          │
-│      "إِنَّهُ فَكَّرَ وَقَدَّرَ"                                                  │
+│      "إِنَّهُ فَكَّرَ وَقَدَّرَ"                                                 │
 │                          │                                          │
 │                          ▼                                          │
 │                    + 7 verses                                       │
 │                   (Seven Gates)                                     │
 │                          │                                          │
 │                          ▼                                          │
-│   🔥 "سَقَرَ" (Saqar / Hell-fire)                                       │
+│   🔥 "سَقَرَ" (Saqar / Hell-fire)                                      │
 │      Al-Muddathir 74:26 — Verse 5521                                │
 │                          │                                          │
 │                          ▼                                          │
@@ -447,7 +472,21 @@ $$\frac{\text{Age of Sun (4.5 billion years)}}{\text{Galactic Year (230 million 
 
 ---
 
-## 5.3 Surah Maryam: The 19th Surah | سورة مريم: السورة 19
+## 5.3 The James Webb Space Telescope | تلسكوب جيمس ويب الفضائي
+
+<p align="center">
+  <img src="references/james-webb-mirrors.jpeg" alt="James Webb Space Telescope Mirrors" width="500"/>
+</p>
+
+The James Webb Space Telescope features **18 hexagonal mirror segments** + **1 central point** = arrangement around **19** positions.
+
+> A modern engineering marvel reflecting ancient numerical patterns.
+
+> تحفة هندسية حديثة تعكس أنماطاً عددية قديمة.
+
+---
+
+## 5.4 Surah Maryam: The 19th Surah | سورة مريم: السورة 19
 
 ### The Miraculous Birth | الولادة المعجزة
 
@@ -469,7 +508,7 @@ $$\text{"قَالَ إِنَّمَا أَنَا رَسُولُ رَبِّكِ ل
 
 ---
 
-## 5.4 Iron: The Cosmic Element | الحديد: العنصر الكوني
+## 5.5 Iron: The Cosmic Element | الحديد: العنصر الكوني
 
 ### Surah Al-Hadid (57) | سورة الحديد
 
@@ -481,6 +520,12 @@ $$\text{"قَالَ إِنَّمَا أَنَا رَسُولُ رَبِّكِ ل
 | Gematria "الحديد" | **57** | = Surah number |
 | Gematria "حديد" | **26** | = Atomic number! |
 | **26** | **19 + 7** | Prime + Seven |
+
+<p align="center">
+  <img src="references/fe-57.jpeg" alt="Iron-57 Isotope" width="500"/>
+</p>
+
+<p align="center"><em>Iron-57 (Fe-57): The most stable iron isotope — 57 = 19 × 3</em></p>
 
 ### The Sum Formula | معادلة المجموع
 
@@ -518,7 +563,7 @@ $$\text{"وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ �
 
 ---
 
-## 5.5 The Bismillah | البسملة
+## 5.6 The Bismillah | البسملة
 
 $$\text{"بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"}$$
 
@@ -532,7 +577,7 @@ $$\text{"بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيم
 
 ---
 
-## 5.6 The Grand Summary | الملخص الكبير
+## 5.7 The Grand Summary | الملخص الكبير
 
 | Domain | Pattern | Value |
 |--------|---------|-------|
@@ -642,7 +687,7 @@ $$\boxed{\text{Word "كَهْفِهِمْ" (their cave)} = \text{Word 309 from s
 │   ⏰ They remained 309 years!                                   │
 │                                                                 │
 │   🔄 THE TEXT COUNTS ITSELF!                                    │
-│      النص يعدّ نفسه بنفسه!                                      │
+│      النص يعدّ نفسه بنفسه!                                       │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -874,7 +919,8 @@ $$\text{"قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ 
 | Topic | Reference |
 |-------|-----------|
 | Metonic Cycle | [Wikipedia](https://en.wikipedia.org/wiki/Metonic_cycle) |
-| Iron in Islam | [Mutah University](https://eijaz.mutah.edu.jo/ironarabicarticle.htm) |
+| Iron in Islam (English) | [Mutah University - English](https://eijaz.mutah.edu.jo/ironenglish.htm) |
+| Iron in Islam (Arabic) | [Mutah University - العربية](https://eijaz.mutah.edu.jo/ironarabicarticle.htm) |
 | Physical Constants | [CODATA - NIST](https://physics.nist.gov/cuu/Constants/) |
 
 ---
