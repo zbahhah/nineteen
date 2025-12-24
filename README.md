@@ -182,45 +182,8 @@ $$\text{"Over it are Nineteen"}$$
 
 ---
 
-# Part III: Reflections & Open Questions
-# الجزء الثالث: التأملات والأسئلة المفتوحة
-
----
-
-## 3.1 Questions for Scientists & Mathematicians
-
-> Why does the prime number 19 produce such precise approximations (< 0.01%) for fundamental physical constants? Is this a deep mathematical pattern yet to be discovered, or a statistical coincidence?
-
-> ما سبب قدرة العدد الأوّلي 19 على إعطاء تقريبات عالية الدقّة (أقل من ‎0.01%‎) لثوابت فيزيائية أساسية؟ هل يعكس هذا نمطًا رياضيًا عميقًا لم يُكشف عنه بعد، أم أنه نتيجة مصادفة إحصائية؟
-
----
-
-## 3.2 Questions for Physicists
-
-> Could there be a physical reason why the structure of the universe is connected to the number 19? What is the relationship to string theory or extra dimensions?
-
-> هل توجد مبرّرات فيزيائية عميقة قد تفسّر ارتباط البنية الكونية بالعدد 19؟ وما مدى صلة ذلك بنظرية الأوتار أو بنماذج الأبعاد الإضافية؟
-
----
-
-## 3.3 Questions for Philosophers
-
-> Does the extreme precision in physical constants ("fine-tuning") indicate design or an anthropic principle? What does it mean for one number to "govern" the structure of the universe?
-
-> هل تشير الدقّة الشديدة في الثوابت الفيزيائية («الضبط الدقيق») إلى وجود تصميم، أم يمكن تفسيرها بمبدأ الأنثروبيا؟ وماذا يعني أن يُقال إن عددًا واحدًا «يحكم» بنية الكون؟
-
----
-
-## 3.4 Questions for Text Researchers
-
-> Do numerical patterns in ancient texts deserve serious academic study? What is the appropriate scientific methodology for studying such phenomena?
-
-> هل تستحق الأنماط العددية في النصوص القديمة دراسةً أكاديمية جادّة؟ وما المنهجية العلمية المناسبة لدراسة مثل هذه الظواهر؟
-
----
-
-# Part IV: The Complete Unified System S₁₉
-# الجزء الرابع: المنظومة الموحدة الكاملة
+# Part III: The Complete Unified System S₁₉
+# الجزء الثالث: المنظومة الموحدة الكاملة
 
 ---
 
@@ -292,12 +255,12 @@ E_Hoyle = 7 + p/29 MeV
 
 ---
 
-# Part V: The Seven Entries Discovery 🆕
-# الجزء الخامس: اكتشاف البوابات السبع
+# Part IV: The Seven Entries Discovery
+# الجزء الرابع: اكتشاف البوابات السبع
 
 ---
 
-## 5.1 The Hidden Meaning of "e" | المعنى الخفي للرمز "e"
+## 4.1 The Hidden Meaning of "e" | المعنى الخفي للرمز "e"
 
 ### The Remarkable Equation | المعادلة المذهلة
 
@@ -316,7 +279,7 @@ $$\boxed{7e = 7 \times \text{Entry} = \text{Seven Entries} = 19}$$
 
 ---
 
-## 5.2 Two Key Verses | آيتان محوريتان
+## 4.2 Two Key Verses | آيتان محوريتان
 
 ### Surah Al-Hijr (15:44) | سورة الحجر
 
@@ -332,7 +295,7 @@ $$\text{"عَلَيْهَا تِسْعَةَ عَشَرَ"}$$
 
 ---
 
-## 5.3 The Remarkable Journey | الرحلة المذهلة
+## 4.3 The Remarkable Journey | الرحلة المذهلة
 
 ### Step 1: Starting Point | نقطة البداية
 
@@ -355,7 +318,7 @@ $$\boxed{\text{Verse } 5514 = \text{Verse } \mathbf{19} \text{ of Surah Al-Mudda
 
 ---
 
-## 5.4 Adding Seven Gates | إضافة سبعة أبواب
+## 4.4 Adding Seven Gates | إضافة سبعة أبواب
 
 $$5514 + 7 = 5521$$
 
@@ -369,7 +332,7 @@ $$\boxed{\text{"سَأُصْلِيهِ سَقَرَ"}}$$
 
 ---
 
-## 5.5 The Complete Path | المسار الكامل
+## 4.5 The Complete Path | المسار الكامل
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -384,21 +347,21 @@ $$\boxed{\text{"سَأُصْلِيهِ سَقَرَ"}}$$
 │                          │                                          │
 │                          ▼                                          │
 │   📍 Verse 19 of Al-Muddathir — Verse 5514                          │
-│      "إِنَّهُ فَكَّرَ وَقَدَّرَ"                                                 │ 
+│      "إِنَّهُ فَكَّرَ وَقَدَّرَ"                                                  │
 │                          │                                          │
 │                          ▼                                          │
 │                    + 7 verses                                       │
 │                   (Seven Gates)                                     │
 │                          │                                          │
 │                          ▼                                          │
-│   🔥 "سَقَرَ" (Saqar / Hell-fire)                                      │
+│   🔥 "سَقَرَ" (Saqar / Hell-fire)                                       │
 │      Al-Muddathir 74:26 — Verse 5521                                │
 │                          │                                          │
 │                          ▼                                          │
 │                    + 4 verses                                       │
 │                          │                                          │
 │                          ▼                                          │
-│   📍 END: "عَلَيْهَا تِسْعَةَ عَشَرَ" (Over it are Nineteen)                    │
+│   📍 END: "عَلَيْهَا تِسْعَةَ عَشَرَ" (Over it are Nineteen)                   │
 │      Al-Muddathir 74:30 — Verse 5525                                │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
@@ -406,7 +369,7 @@ $$\boxed{\text{"سَأُصْلِيهِ سَقَرَ"}}$$
 
 ---
 
-## 5.6 The Numbers Speak | الأرقام تتحدث
+## 4.6 The Numbers Speak | الأرقام تتحدث
 
 | From | To | Distance | Significance |
 |------|-----|----------|--------------|
@@ -417,7 +380,7 @@ $$\boxed{\text{"سَأُصْلِيهِ سَقَرَ"}}$$
 
 ---
 
-## 5.7 The Connection to Physics | الربط مع الفيزياء
+## 4.7 The Connection to Physics | الربط مع الفيزياء
 
 $$\boxed{7e = 19}$$
 
@@ -431,7 +394,7 @@ $$\boxed{7 \times 19 + 4 = 137 = \frac{1}{\alpha}}$$
 
 ---
 
-## 5.8 Summary | الخلاصة
+## 4.8 Summary | الخلاصة
 
 $$\boxed{\begin{aligned}
 &\text{Seven Gates (سبعة أبواب)} \xrightarrow{+3668} \text{Verse 19} \\[10pt]
@@ -448,12 +411,12 @@ $$\boxed{\begin{aligned}
 
 ---
 
-# Part VI: Cosmic Cycles, Iron, and the Number 19
-# الجزء السادس: الدورات الكونية والحديد والعدد 19
+# Part V: Cosmic Cycles, Iron, and the Number 19
+# الجزء الخامس: الدورات الكونية والحديد والعدد 19
 
 ---
 
-## 6.1 The Metonic Cycle | دورة ميتون
+## 5.1 The Metonic Cycle | دورة ميتون
 
 ### The 19-Year Cosmic Alignment | التطابق الكوني كل 19 سنة
 
@@ -474,7 +437,7 @@ Every **19 years**, a remarkable alignment occurs:
 
 ---
 
-## 6.2 The Sun's Galactic Journey | رحلة الشمس المجرية
+## 5.2 The Sun's Galactic Journey | رحلة الشمس المجرية
 
 $$\frac{\text{Age of Sun (4.5 billion years)}}{\text{Galactic Year (230 million years)}} \approx 19.5 \text{ orbits}$$
 
@@ -484,7 +447,7 @@ $$\frac{\text{Age of Sun (4.5 billion years)}}{\text{Galactic Year (230 million 
 
 ---
 
-## 6.3 Surah Maryam: The 19th Surah | سورة مريم: السورة 19
+## 5.3 Surah Maryam: The 19th Surah | سورة مريم: السورة 19
 
 ### The Miraculous Birth | الولادة المعجزة
 
@@ -506,7 +469,7 @@ $$\text{"قَالَ إِنَّمَا أَنَا رَسُولُ رَبِّكِ ل
 
 ---
 
-## 6.4 Iron: The Cosmic Element | الحديد: العنصر الكوني
+## 5.4 Iron: The Cosmic Element | الحديد: العنصر الكوني
 
 ### Surah Al-Hadid (57) | سورة الحديد
 
@@ -555,7 +518,7 @@ $$\text{"وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ �
 
 ---
 
-## 6.5 The Bismillah | البسملة
+## 5.5 The Bismillah | البسملة
 
 $$\text{"بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"}$$
 
@@ -569,7 +532,7 @@ $$\text{"بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيم
 
 ---
 
-## 6.6 The Grand Summary | الملخص الكبير
+## 5.6 The Grand Summary | الملخص الكبير
 
 | Domain | Pattern | Value |
 |--------|---------|-------|
@@ -577,42 +540,23 @@ $$\text{"بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيم
 | **Astronomy** | Sun's galactic orbits | ~**19** |
 | **Quran** | Total Surahs | 114 = **19** × 6 |
 | **Quran** | Bismillah letters | **19** |
-| **Quran** | Surah Maryam | #**19** |
+| **Quran** | Surah Maryam | Surah **19** |
 | **Quran** | Jesus's birth story | **19** verses |
 | **Quran** | Gabriel's verse | Verse **19** |
 | **Quran** | Surah Al-Hadid | 57 = **19** × 3 |
 | **Physics** | Fe-57 isotope | **19** × 3 |
-| **Chemistry** | Iron atomic # | 26 = **19** + 7 |
+| **Chemistry** | Iron atomic number | 26 = **19** + 7 |
 | **Math** | 7 × e | ≈ **19** |
 | **Math** | 7 × 19 + 4 | 137 = 1/α |
 
 ---
 
-## References | المراجع
-
-### 🔬 مركز نون للأبحاث القرآنية | Noon Center for Quranic Research
-
-> المرجع الأهم والأدق في مجال الإعجاز العددي
-
-- 🏠 [الموقع الرئيسي | Main Site](http://islamnoon.com/home)
-- 📊 [إحصاء حروف وكلمات القرآن](http://islamnoon.com/content/887/1)
-- 📐 [قواعد الإحصاء في مركز نون](http://islamnoon.com/content/865/1)
-
-### Other References | مراجع أخرى
-
-- [Metonic Cycle - Wikipedia](https://en.wikipedia.org/wiki/Metonic_cycle)
-- [Iron in Islam - Mutah University](https://eijaz.mutah.edu.jo/ironarabicarticle.htm)
-- [Jim Al-Khalili - Story of the Atom](https://www.youtube.com/watch?v=cYdJFPIm8m4)
-- [الشيخ أحمد ديدات - المعجزة المرئية](https://www.youtube.com/watch?v=PuSAAXVgNYE)
+# Part VI: The Self-Referential Number Pattern
+# الجزء السادس: نمط العدد ذاتي المرجعية
 
 ---
 
-# Part VII: The Self-Referential Number Pattern 🆕
-# الجزء السابع: نمط العدد ذاتي المرجعية
-
----
-
-## 7.1 The Discovery | الاكتشاف
+## 6.1 The Discovery | الاكتشاف
 
 ### Total Integers in the Quran | مجموع الأعداد الصحيحة في القرآن
 
@@ -620,7 +564,7 @@ $$\boxed{285 = 19 \times 15}$$
 
 ---
 
-## 7.2 The Self-Reference | المرجعية الذاتية
+## 6.2 The Self-Reference | المرجعية الذاتية
 
 ### Surah Al-Jinn (72:28) | سورة الجن
 
@@ -636,7 +580,7 @@ $$\text{"... وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا"}$$
 
 ---
 
-## 7.3 The Self-Describing Structure | البنية ذاتية الوصف
+## 6.3 The Self-Describing Structure | البنية ذاتية الوصف
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -657,7 +601,7 @@ $$\text{"... وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا"}$$
 
 ---
 
-## 7.4 Connection to 19 | الربط بالعدد 19
+## 6.4 Connection to 19 | الربط بالعدد 19
 
 | Pattern | Value | Factorization |
 |---------|-------|---------------|
@@ -668,75 +612,7 @@ $$\text{"... وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا"}$$
 
 ---
 
-## 7.5 Scientific Verification | التحقق العلمي
-
-This pattern is **verifiable**:
-1. Count all explicit integers in the Quran
-2. Count words in Surah Al-Jinn to find position of "عَدَدًا"
-3. Verify: both = 285 = 19 × 15
-
-> This self-referential pattern — where "number" appears at position = total count of numbers — is known in mathematics as a **self-describing structure**.
-
----
-
-$$\boxed{\text{"وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا"} \quad | \quad \text{Word 285 of 285 integers}}$$
-
----
-
-# Part VIII: Surah Maryam — Adam, Jesus, and 19 🆕
-# الجزء الثامن: سورة مريم — آدم وعيسى والعدد 19
-
----
-
-## 8.1 The Gematria of Adam | جُمَّل آدم
-
-$$\boxed{\text{جُمَّل "ءادم"} = 46 = \text{Human Chromosomes}}$$
-
----
-
-## 8.2 Surah 19: The Web of Nineteen | شبكة التسعة عشر
-
-| Pattern | Value |
-|---------|-------|
-| Surah number | **19** |
-| Jesus's birth story | **19** verses |
-| Pivotal verse | Verse **19** |
-| 19th mention of "Jesus" | Verse 34 |
-| 19th mention of "Adam" | Verse 58 |
-
----
-
-## 8.3 The Adam-Jesus Parallel | التماثل بين آدم وعيسى
-
-$$\text{"إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ"} \quad \text{(آل عمران 59)}$$
-
-| | Adam | Jesus |
-|--|------|-------|
-| Total mentions | **25** | **25** |
-| 7th mention | Al-Imran 3:59 | Al-Imran 3:59 |
-
----
-
-## 8.4 The Distance: 1957 Verses | المسافة
-
-$$\text{From Al-Imran 3:59 to Maryam 19:58} = 1957 = 19 \times 103$$
-
-$$1957 = 1900 + 57 = (19 \times 100) + (19 \times 3)$$
-
----
-
-## 8.5 Gematria Connections | روابط الجُمَّل
-
-| Element | Value |
-|---------|-------|
-| جُمَّل "مريم" | 290 |
-| جُمَّل "سورة" | 271 |
-| 271 + 19 | **290** ✓ |
-| 19 + 290 | **309** = سنوات أهل الكهف |
-
----
-
-## 8.6 Surah Al-Kahf and the Number 309 | سورة الكهف والعدد 309 🆕
+## 6.5 Surah Al-Kahf and the Number 309 | سورة الكهف والعدد 309
 
 ### The Structure | البنية
 
@@ -771,35 +647,87 @@ $$\boxed{\text{Word "كَهْفِهِمْ" (their cave)} = \text{Word 309 from s
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### The Connection to Surah Maryam | الربط مع سورة مريم
-
-$$\text{Surah 18 (Al-Kahf)} \rightarrow \text{Surah 19 (Maryam)}$$
-
-$$19 + \text{جُمَّل "مريم" (290)} = 309 = \text{Years of Cave sleepers}$$
-
 ### The Location of the Cave | موقع الكهف
 
-> **A significant hypothesis:** The Cave of the People of the Cave is likely the cave beneath the **Dome of the Rock** in Al-Aqsa Mosque, where visitors traditionally pray two rak'ahs. It is the best cave atop a plateau matching the descriptions in the Surah.
+> **A significant hypothesis:** The Cave of the People of the Cave is likely the cave beneath the **Dome of the Rock** in Al-Aqsa Mosque. It is the best cave atop a plateau matching all descriptions in the Surah.
 
-> **فرضية مهمة:** كهف أهل الكهف هو على الأرجح الكهف الموجود تحت **قبة الصخرة** في المسجد الأقصى، والذي يصلي فيه الزوار ركعتين عادةً. وهو أفضل كهف على قمة هضبة تنطبق عليه المواصفات المذكورة في السورة.
+> **فرضية مهمة:** كهف أهل الكهف هو على الأرجح الكهف الموجود تحت **قبة الصخرة** في المسجد الأقصى. وهو أفضل كهف على قمة هضبة تنطبق عليه جميع المواصفات المذكورة في السورة.
 
 ### The Wisdom: Teaching Chronology | الحكمة: تعليم التأريخ
 
-> **The story of the People of the Cave taught humanity:**
-> - The concept of **الرَّقِيم** (inscription/record)
-> - The first attempt at **long-term chronology**
-> - Recording time over **309 years**
-> - This led to the development of the **Hebrew Calendar** — the oldest continuous calendar!
-
-> **قصة أهل الكهف علّمت البشرية:**
-> - مفهوم **الرَّقِيم** (التسجيل والتدوين)
-> - أول محاولة **للتأريخ طويل المدى**
-> - تسجيل الزمن على مدى **309 سنين**
-> - مما أدى إلى نشأة **التقويم العبري** — أقدم التقاويم المستمرة!
+The story taught humanity:
+- **الرَّقِيم** — the concept of inscription and record-keeping
+- The first attempt at **long-term chronology** (309 years)
+- This led to the **Hebrew Calendar** — the oldest continuous calendar!
 
 ---
 
-## 8.7 Verse 19:19 | الآية 19 من السورة 19
+## 6.6 Connection to Surah Maryam | الربط مع سورة مريم
+
+$$19 + \text{جُمَّل "مريم" (290)} = 309 = \text{Years of Cave sleepers}$$
+
+---
+
+$$\boxed{\text{"وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا"} \quad | \quad \text{Word 285 of 285 integers}}$$
+
+---
+
+# Part VII: Surah Maryam — Adam, Jesus, and 19
+# الجزء السابع: سورة مريم — آدم وعيسى والعدد 19
+
+---
+
+## 7.1 The Gematria of Adam | جُمَّل آدم
+
+### Human Chromosomes | الكروموسومات البشرية
+
+$$\boxed{\text{جُمَّل "ءادم"} = 46 = \text{Human Chromosomes}}$$
+
+---
+
+## 7.2 Surah 19: The Web of Nineteen | شبكة التسعة عشر
+
+| Pattern | Value |
+|---------|-------|
+| Surah number | **19** |
+| Jesus's birth story | **19** verses |
+| Pivotal verse | Verse **19** |
+| 19th mention of "Jesus" | Verse 34 |
+| 19th mention of "Adam" | Verse 58 |
+
+---
+
+## 7.3 The Adam-Jesus Parallel | التماثل بين آدم وعيسى
+
+$$\text{"إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ"} \quad \text{(آل عمران 59)}$$
+
+| | Adam | Jesus |
+|--|------|-------|
+| Total mentions | **25** | **25** |
+| 7th mention | Al-Imran 3:59 | Al-Imran 3:59 |
+
+---
+
+## 7.4 The Distance: 1957 Verses | المسافة
+
+$$\text{From Al-Imran 3:59 to Maryam 19:58} = 1957 = 19 \times 103$$
+
+$$1957 = 1900 + 57 = (19 \times 100) + (19 \times 3)$$
+
+---
+
+## 7.5 Gematria Connections | روابط الجُمَّل
+
+| Element | Value |
+|---------|-------|
+| جُمَّل "مريم" | 290 |
+| جُمَّل "سورة" | 271 |
+| 271 + 19 | **290** ✓ |
+| 19 + 290 | **309** = سنوات أهل الكهف |
+
+---
+
+## 7.6 Verse 19:19 | الآية 19 من السورة 19
 
 $$\text{"قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمٗا زَكِيّٗا"}$$
 
@@ -811,12 +739,49 @@ $$\text{"قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ 
 
 ---
 
-## 8.8 Word Endings | نهايات الكلمات
+## 7.7 Word Endings | نهايات الكلمات
 
 | Ending | Word Count | = |
 |--------|------------|---|
 | Verses ending "يا" | 722 | 19² × 2 |
 | Other verses | 361 | **19²** |
+
+---
+
+# Part VIII: Reflections & Open Questions
+# الجزء الثامن: التأملات والأسئلة المفتوحة
+
+---
+
+## 8.1 Questions for Scientists & Mathematicians
+
+> Why does the prime number 19 produce such precise approximations (< 0.01%) for fundamental physical constants? Is this a deep mathematical pattern yet to be discovered, or a statistical coincidence?
+
+> ما سبب قدرة العدد الأوّلي 19 على إعطاء تقريبات عالية الدقّة (أقل من ‎0.01%‎) لثوابت فيزيائية أساسية؟ هل يعكس هذا نمطًا رياضيًا عميقًا لم يُكشف عنه بعد، أم أنه نتيجة مصادفة إحصائية؟
+
+---
+
+## 8.2 Questions for Physicists
+
+> Could there be a physical reason why the structure of the universe is connected to the number 19? What is the relationship to string theory or extra dimensions?
+
+> هل توجد مبرّرات فيزيائية عميقة قد تفسّر ارتباط البنية الكونية بالعدد 19؟ وما مدى صلة ذلك بنظرية الأوتار أو بنماذج الأبعاد الإضافية؟
+
+---
+
+## 8.3 Questions for Philosophers
+
+> Does the extreme precision in physical constants ("fine-tuning") indicate design or an anthropic principle? What does it mean for one number to "govern" the structure of the universe?
+
+> هل تشير الدقّة الشديدة في الثوابت الفيزيائية («الضبط الدقيق») إلى وجود تصميم، أم يمكن تفسيرها بمبدأ الأنثروبيا؟ وماذا يعني أن يُقال إن عددًا واحدًا «يحكم» بنية الكون؟
+
+---
+
+## 8.4 Questions for Text Researchers
+
+> Do numerical patterns in ancient texts deserve serious academic study? What is the appropriate scientific methodology for studying such phenomena?
+
+> هل تستحق الأنماط العددية في النصوص القديمة دراسةً أكاديمية جادّة؟ وما المنهجية العلمية المناسبة لدراسة مثل هذه الظواهر؟
 
 ---
 
@@ -830,12 +795,12 @@ $$\text{"قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ 
 |------|-----------|------------|
 | I | Physical Constants | 7e ≈ **19** |
 | II | Quranic Observations | عليها **19** |
-| III | Open Questions | — |
-| IV | System S₁₉ | p = **19** |
-| V | Seven Entries | 7e = **19** |
-| VI | Cosmic Cycles | **19** years, **19** orbits |
-| VII | Self-Reference | 285 = **19** × 15 |
-| VIII | Adam & Jesus | **25** = **25**, 1957 = **19** × 103 |
+| III | System S₁₉ | p = **19** |
+| IV | Seven Entries | 7e = **19** |
+| V | Cosmic Cycles | **19** years, **19** orbits |
+| VI | Self-Reference | 285 = **19** × 15, 309 |
+| VII | Adam & Jesus | **25** = **25**, 1957 = **19** × 103 |
+| VIII | Open Questions | — |
 
 ---
 
@@ -886,11 +851,15 @@ $$\text{"قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ 
 
 ---
 
-## References & Verification | المراجع والتحقق
+# References & Verification | المراجع والتحقق
 
-### 🔬 Primary Research Center | المركز البحثي الرئيسي
+---
+
+## 🔬 Primary Research Center | المركز البحثي الرئيسي
 
 **مركز نون للأبحاث القرآنية | Noon Center for Quranic Research**
+
+> المرجع الأهم والأدق في مجال الإعجاز العددي
 
 | Resource | Link |
 |----------|------|
@@ -898,7 +867,43 @@ $$\text{"قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ 
 | 📊 Quran Letter & Word Statistics | [islamnoon.com/content/887/1](http://islamnoon.com/content/887/1) |
 | 📐 Counting Rules at Noon Center | [islamnoon.com/content/865/1](http://islamnoon.com/content/865/1) |
 
-### Verification | التحقق
+---
+
+## 📚 Scientific References | المراجع العلمية
+
+| Topic | Reference |
+|-------|-----------|
+| Metonic Cycle | [Wikipedia](https://en.wikipedia.org/wiki/Metonic_cycle) |
+| Iron in Islam | [Mutah University](https://eijaz.mutah.edu.jo/ironarabicarticle.htm) |
+| Physical Constants | [CODATA - NIST](https://physics.nist.gov/cuu/Constants/) |
+
+---
+
+## 🎬 Video References | مراجع الفيديو
+
+| Speaker | Topic | Link |
+|---------|-------|------|
+| الشيخ أحمد ديدات | المعجزة المرئية | [YouTube](https://www.youtube.com/watch?v=PuSAAXVgNYE) |
+| Jim Al-Khalili | Story of the Atom | [YouTube](https://www.youtube.com/watch?v=cYdJFPIm8m4) |
+| Numerical Miracles | الإعجاز العددي | [YouTube](https://www.youtube.com/watch?v=iBdCza4PCf4) |
+| Surah Maryam Analysis | تحليل سورة مريم | [YouTube](https://www.youtube.com/watch?v=12TZI5eIRDQ) |
+| Adam and Jesus | آدم وعيسى | [YouTube](https://www.youtube.com/watch?v=MrAIjQPIKX8) |
+
+---
+
+## 📝 Note on Word "Allah" Count | ملاحظة حول عدّ لفظ الجلالة
+
+| Count | Value | Note |
+|-------|-------|------|
+| Correct count (الشيخ بسام جرار) | **2699** | Prime number (عدد أولي) |
+| Sheikh Ahmed Deedat's count | 2698 | = 19 × 142 (error of 1) |
+| Including "اللَّهُمَّ" (5×) | **2704** | = 52 × 52 = 13² × 16 |
+
+> **تصحيح:** ذكر الشيخ أحمد ديدات رحمه الله في محاضرته أن لفظ الجلالة ورد 2698 مرة (19 × 142)، لكن الشيخ بسام جرار صحّح هذا العدد إلى **2699** مرة، وهو عدد أولي لا يقبل القسمة على 19.
+
+---
+
+## ✅ Verification | التحقق
 
 - All physical calculations can be verified using **CODATA** reference values
 - Quranic observations can be verified by direct counting in the original Arabic text
