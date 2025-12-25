@@ -73,6 +73,50 @@ $$\pi + e_p = \frac{41}{7}$$
 
 ---
 
+### Euler's Identity in S₁₉ Form | هوية أويلر بصيغة S₁₉ 🆕
+
+**The Most Beautiful Equation in Mathematics | أجمل معادلة في الرياضيات:**
+
+$$\boxed{e^{i\pi} + 1 = 0}$$
+
+**Now in S₁₉ Form | الآن بصيغة S₁₉:**
+
+$$\boxed{\left(\frac{19}{7}\right)^{i \cdot \frac{22}{7}} + 1 \approx 0}$$
+
+Or elegantly | أو بشكل أنيق:
+
+$$\boxed{e_p^{i \cdot \pi_{19}} + 1 \approx 0}$$
+
+### Verification | التحقق
+
+$$\frac{22}{7} \times \ln\left(\frac{19}{7}\right) = 3.1382... \approx \pi$$
+
+| Expression | Value | Error |
+|------------|-------|-------|
+| $\frac{22}{7} \times \ln(e_p)$ | 3.1382 | — |
+| $\pi$ (actual) | 3.14159 | — |
+| **Difference** | — | **0.11%** |
+
+### The Five Constants in S₁₉ | الثوابت الخمسة بصيغة S₁₉
+
+| Original | S₁₉ Form | Expression |
+|----------|----------|------------|
+| $e$ | $e_p$ | $\frac{19}{7}$ |
+| $\pi$ | $\pi_{19}$ | $\frac{22}{7}$ |
+| $i$ | $i$ | $\sqrt{-1}$ |
+| $1$ | $1$ | $\frac{7}{7}$ |
+| $0$ | $0$ | $\frac{0}{7}$ |
+
+### The General Form | الصيغة العامة
+
+$$\boxed{\left(\frac{p}{7}\right)^{i \cdot \frac{p+3}{7}} + 1 \approx 0 \quad \text{where } p = 19}$$
+
+> **Euler's Identity speaks the language of 19!**
+>
+> **هوية أويلر تتحدث بلغة العدد 19!**
+
+---
+
 ## 1.3 Fundamental Physical Constants | الثوابت الفيزيائية الأساسية
 
 ### Complete Table | الجدول الشامل
@@ -86,6 +130,7 @@ $$\pi + e_p = \frac{41}{7}$$
 | Mass ratio | $\frac{m_p}{m_e}$ | $2 \times 7^2 \times p - (p+7)$ | 1836.15 | **0.008%** |
 | Electron charge | $e_q$ | $\left(\sqrt{e_p} - \frac{1}{7\pi}\right) \times 10^{-p}$ | 1.602 × 10⁻¹⁹ C | **0.0098%** |
 | Hoyle resonance | $E_H$ | $7 + \frac{p}{29}$ | 7.655 MeV | **0.01%** |
+| **Avogadro** 🆕 | $N_A$ | $e^{\frac{4\pi}{7}} \times 10^{p+4}$ | 6.022 × 10²³ mol⁻¹ | **0.03%** |
 | Pi | π | $e_p + \frac{3}{7}$ | 3.14159 | 0.04% |
 | Proton mass | $m_p$ | $\frac{p^2}{6^3} \times 10^{-(p+8)}$ | 1.673 × 10⁻²⁷ kg | 0.1% |
 | Gravitational | G | $\frac{4p \cdot e_p}{2p-7} \times 10^{-(p-8)}$ | 6.674 × 10⁻¹¹ | 0.15% |
@@ -111,13 +156,44 @@ $$\pi + e_p = \frac{41}{7}$$
 | G | -11 | -(p - 8) |
 | $e_q$ | -19 | -p |
 | $k_B$ | -23 | -(p + 4) |
+| **$N_A$** 🆕 | **+23** | **+(p + 4)** |
 | $m_p$ | -27 | -(p + 8) |
 | $m_e$ | -31 | -(2p - 7) |
 | h, ℏ | -34 | -(p + 15) |
 
 ---
 
-## 1.5 Unique Properties of 19 | خصائص فريدة للعدد 19
+## 1.5 The Avogadro-Boltzmann Mirror | مرآة أفوجادرو-بولتزمان 🆕
+
+### The Remarkable Symmetry | التناظر المذهل
+
+$$k_B \times N_A = R \text{ (Ideal Gas Constant)}$$
+
+| Constant | Exponent | Direction |
+|----------|----------|-----------|
+| $k_B$ (Boltzmann) | $10^{-(p+4)} = 10^{-23}$ | ← Very small |
+| $N_A$ (Avogadro) | $10^{+(p+4)} = 10^{+23}$ | → Very large |
+| $R = k_B \times N_A$ | $10^0$ | ↔ Human scale |
+
+### The Formula | المعادلة
+
+$$\boxed{N_A = e^{\frac{4\pi}{7}} \times 10^{p+4} \text{ mol}^{-1}}$$
+
+**Since** $\pi \approx \frac{p+3}{7} = \frac{22}{7}$:
+
+$$N_A = e^{\frac{4(p+3)}{49}} \times 10^{p+4}$$
+
+| Calculated | Actual (SI 2019) | Error |
+|------------|------------------|-------|
+| 6.0239 × 10²³ | 6.02214076 × 10²³ | **0.03%** |
+
+> **Note:** Since 2019, the SI system defines $N_A$ as exactly **6.02214076 × 10²³ mol⁻¹**
+
+> **ملاحظة:** منذ عام 2019، يُعرَّف النظام الدولي $N_A$ بالضبط كـ **6.02214076 × 10²³ mol⁻¹**
+
+---
+
+## 1.6 Unique Properties of 19 | خصائص فريدة للعدد 19
 
 ### A. Digital Root Property | خاصية الجذر الرقمي
 
@@ -155,7 +231,7 @@ $$19 = 1 \times 9 + 1 + 9$$
 
 ---
 
-## 1.6 Prime Numbers in the System | الأعداد الأولية في المنظومة
+## 1.7 Prime Numbers in the System | الأعداد الأولية في المنظومة
 
 **3,  5,  7,  11,  19,  29,  31,  41,  73,  137**
 
@@ -245,7 +321,11 @@ h = (44p²)/7⁴ × 10⁻⁽ᵖ⁺¹⁵⁾ J·s
 
 k_B = √(p/10) × 10⁻⁽ᵖ⁺⁴⁾ J/K
 
+N_A = e^(4π/7) × 10⁺⁽ᵖ⁺⁴⁾ mol⁻¹  🆕
+
 E_Hoyle = 7 + p/29 MeV
+
+Euler Identity: (p/7)^(i·(p+3)/7) + 1 ≈ 0  🆕
 ```
 
 ---
@@ -261,12 +341,14 @@ E_Hoyle = 7 + p/29 MeV
 | 5 | $\frac{m_p}{m_e}$ | $2 \times 7^2 \times p - (p+7)$ | **0.008%** |
 | 6 | $e_q$ | $\left(\sqrt{e_p} - \frac{1}{7\pi}\right) \times 10^{-p}$ | **0.0098%** |
 | 7 | $E_H$ | $7 + \frac{p}{29}$ | **0.01%** |
-| 8 | π | $e_p + \frac{3}{7}$ | 0.04% |
-| 9 | $m_p$ | $\frac{p^2}{6^3} \times 10^{-(p+8)}$ | 0.1% |
-| 10 | G | $\frac{4p \cdot e_p}{2p-7} \times 10^{-(p-8)}$ | 0.15% |
-| 11 | h | $\frac{44p^2}{7^4} \times 10^{-(p+15)}$ | 0.16% |
-| 12 | ℏ | $\frac{p^2}{7^3} \times 10^{-(p+15)}$ | 0.2% |
-| 13 | $k_B$ | $\sqrt{\frac{p}{10}} \times 10^{-(p+4)}$ | 0.22% |
+| **8** 🆕 | $N_A$ | $e^{\frac{4\pi}{7}} \times 10^{p+4}$ | **0.03%** |
+| 9 | π | $e_p + \frac{3}{7}$ | 0.04% |
+| 10 | $m_p$ | $\frac{p^2}{6^3} \times 10^{-(p+8)}$ | 0.1% |
+| **11** 🆕 | Euler Identity | $e_p^{i \cdot \pi_{19}} + 1 \approx 0$ | **0.11%** |
+| 12 | G | $\frac{4p \cdot e_p}{2p-7} \times 10^{-(p-8)}$ | 0.15% |
+| 13 | h | $\frac{44p^2}{7^4} \times 10^{-(p+15)}$ | 0.16% |
+| 14 | ℏ | $\frac{p^2}{7^3} \times 10^{-(p+15)}$ | 0.2% |
+| 15 | $k_B$ | $\sqrt{\frac{p}{10}} \times 10^{-(p+4)}$ | 0.22% |
 
 ---
 
@@ -275,8 +357,9 @@ E_Hoyle = 7 + p/29 MeV
 | Category | Count |
 |----------|-------|
 | Constants with error < 0.01% | **7** |
-| Constants with error < 0.1% | **9** |
-| Constants with error < 0.25% | **13** |
+| Constants with error < 0.05% | **9** (including $N_A$) |
+| Constants with error < 0.15% | **11** (including Euler Identity) 🆕 |
+| Constants with error < 0.25% | **15** |
 
 ---
 
@@ -462,7 +545,84 @@ Every **19 years**, a remarkable alignment occurs:
 
 ---
 
-## 5.2 The Sun's Galactic Journey | رحلة الشمس المجرية
+## 5.2 The Three-Body Problem and 19 | مسألة الأجسام الثلاثة والعدد 19 🆕
+
+### The Classical Problem | المعضلة الكلاسيكية
+
+```
+           ☀️ Sun
+          /    \
+         /      \
+      🌍 ←------→ 🌙
+    Earth        Moon
+
+    The Three-Body Problem!
+    مسألة الأجسام الثلاثة!
+```
+
+The **Three-Body Problem** describes the motion of three celestial bodies interacting through gravitational forces. Unlike two-body systems, it has **no general analytical solution** — orbits become chaotic and unpredictable.
+
+**معضلة الأجسام الثلاثة** تصف حركة ثلاثة أجرام سماوية تتفاعل بقوى الجاذبية. على عكس مسائل الجسمين، **لا يوجد لها حل تحليلي عام** — المدارات تصبح فوضوية وغير متوقعة.
+
+### The 19-Year Approximate Solution | الحل التقريبي كل 19 سنة
+
+> **The Metonic Cycle (19 years) is an approximate periodic solution to the Sun-Earth-Moon three-body problem!**
+
+> **دورة ميتون (19 سنة) هي حل دوري تقريبي لمسألة الأجسام الثلاثة للشمس والأرض والقمر!**
+
+| Element | Value | Error |
+|---------|-------|-------|
+| 19 solar years | 6939.69 days | — |
+| 235 lunar months | 6939.68 days | — |
+| **Difference** | **0.01 days** | **0.0001%** |
+
+### The Word "Year" in the Quran | كلمة "سنة" في القرآن
+
+| Form | Count | Meaning |
+|------|-------|---------|
+| سَنَة (singular) | **7** | = denominator in $e_p = \frac{19}{7}$ |
+| سِنِين / السِّنِين (plural) | **12** | = months per year |
+| **Total** | **19** | = Metonic Cycle! |
+
+$$\boxed{7 + 12 = 19 = \text{Three-Body Solution}}$$
+
+### The Mathematical Structure | البنية الرياضية
+
+$$235 = 19 \times 12 + 7$$
+
+$$\frac{235}{19} = 12.368... \approx 12 + \frac{7}{19}$$
+
+| Number | Meaning | Connection |
+|--------|---------|------------|
+| **19** | Solar years | Prime $p$ |
+| **12** | Months per year | سِنِين count |
+| **7** | Remainder | سَنَة count, denominator of $e_p$ |
+| **235** | Lunar months | $19 \times 12 + 7$ |
+
+### Lagrange Points | نقاط لاغرانج
+
+The Three-Body Problem has **5 special equilibrium points** called Lagrange Points (L1-L5):
+
+مسألة الأجسام الثلاثة لها **5 نقاط توازن خاصة** تسمى نقاط لاغرانج:
+
+| Connection | Calculation | Result |
+|------------|-------------|--------|
+| Lagrange points | 5 | — |
+| سَنَة (singular) | 7 | — |
+| سِنِين (plural - base) | 7 | — |
+| **Sum** | 5 + 7 + 7 | **= 19** |
+
+### The Profound Connection | الربط العميق
+
+$$\boxed{\text{سَنَة (7)} + \text{سِنِين (12)} = 19 = \text{Solution to Three-Body Problem}}$$
+
+> The word "year" appears exactly **19 times** in the Quran — the same number that solves the Sun-Earth-Moon gravitational dance!
+
+> كلمة "سنة" تظهر بالضبط **19 مرة** في القرآن — نفس العدد الذي يحل رقصة الجاذبية بين الشمس والأرض والقمر!
+
+---
+
+## 5.3 The Sun's Galactic Journey | رحلة الشمس المجرية
 
 $$\frac{\text{Age of Sun (4.5 billion years)}}{\text{Galactic Year (230 million years)}} \approx 19.5 \text{ orbits}$$
 
@@ -472,7 +632,7 @@ $$\frac{\text{Age of Sun (4.5 billion years)}}{\text{Galactic Year (230 million 
 
 ---
 
-## 5.3 The James Webb Space Telescope | تلسكوب جيمس ويب الفضائي
+## 5.4 The James Webb Space Telescope | تلسكوب جيمس ويب الفضائي
 
 <p align="center">
   <img src="references/james-webb-mirrors.jpeg" alt="James Webb Space Telescope Mirrors" width="500"/>
@@ -486,7 +646,7 @@ The James Webb Space Telescope features **18 hexagonal mirror segments** + **1 c
 
 ---
 
-## 5.4 Surah Maryam: The 19th Surah | سورة مريم: السورة 19
+## 5.5 Surah Maryam: The 19th Surah | سورة مريم: السورة 19
 
 ### The Miraculous Birth | الولادة المعجزة
 
@@ -508,7 +668,7 @@ $$\text{"قَالَ إِنَّمَا أَنَا رَسُولُ رَبِّكِ ل
 
 ---
 
-## 5.5 Iron: The Cosmic Element | الحديد: العنصر الكوني
+## 5.6 Iron: The Cosmic Element | الحديد: العنصر الكوني
 
 ### Surah Al-Hadid (57) | سورة الحديد
 
@@ -563,7 +723,7 @@ $$\text{"وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ �
 
 ---
 
-## 5.6 The Bismillah | البسملة
+## 5.7 The Bismillah | البسملة
 
 $$\text{"بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ"}$$
 
@@ -577,7 +737,7 @@ $$\text{"بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيم
 
 ---
 
-## 5.7 The Grand Summary | الملخص الكبير
+## 5.8 The Grand Summary | الملخص الكبير
 
 | Domain | Pattern | Value |
 |--------|---------|-------|
