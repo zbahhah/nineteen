@@ -895,7 +895,7 @@ $$\boxed{\text{جُمَّل "ءادم"} = 46 = \text{Human Chromosomes}}$$
 | Pattern | Value |
 |---------|-------|
 | Surah number | **19** |
-| Jesus's birth story | **19** verses |
+| Jesus's birth story | **19** verses (16-34) |
 | Pivotal verse | Verse **19** |
 | 19th mention of "Jesus" | Verse 34 |
 | 19th mention of "Adam" | Verse 58 |
@@ -934,7 +934,7 @@ $$1957 = 1900 + 57 = (19 \times 100) + (19 \times 3)$$
 
 ## 7.6 Verse 19:19 | الآية 19 من السورة 19
 
-$$\text{"قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمٗا زَكِيّٗا"}$$
+$$\text{"قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَامٗا زَكِيّٗا"}$$
 
 | Property | Value |
 |----------|-------|
@@ -1082,6 +1082,11 @@ $$\text{"قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ 
 | Iron in Islam (English) | [Mutah University - English](https://eijaz.mutah.edu.jo/ironenglish.htm) |
 | Iron in Islam (Arabic) | [Mutah University - العربية](https://eijaz.mutah.edu.jo/ironarabicarticle.htm) |
 | Physical Constants | [CODATA - NIST](https://physics.nist.gov/cuu/Constants/) |
+| Complete Guide to Fatiha 19 Protection | [Complete_Guide_Fatiha_19_Protection.md](Complete_Guide_Fatiha_19_Protection.md) |
+| 19 (number) | [Wikipedia](https://en.wikipedia.org/wiki/19_(number)) |
+| Prime reciprocal magic square | [Wikipedia](https://en.wikipedia.org/wiki/Prime_reciprocal_magic_square) |
+
+${\displaystyle {\tfrac {1}{19}}}$ can be used to generate the **first full, non-normal** [prime reciprocal magic square](https://en.wikipedia.org/wiki/Prime_reciprocal_magic_square) in decimal whose rows, columns and diagonals — in a 18 x 18 array — all generate a magic constant of 81 = 9².
 
 ---
 
