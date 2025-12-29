@@ -1242,6 +1242,84 @@ $$\boxed{\text{Word "كَهْفِهِمْ" (their cave)} = \text{Word 309 from s
 
 ---
 
+## 📖 The Number 309: People of the Cave | العدد 309: أصحاب الكهف
+
+The number **309** appears in the Quran as the duration the People of the Cave slept:
+
+> *"And they remained in their cave for three hundred years and exceeded by nine"*
+> 
+> *"ولبثوا في كهفهم ثلث مائة سنين وازدادوا تسعا"* — Quran 18:25
+
+### Discovery 1: Gematria of "Years and Calculation"
+
+From Surah Al-Isra (17:12): *"That you may know the number of years and the calculation"*
+
+| Word | Arabic | Letters | Gematria |
+|:-----|:-------|:--------|:--------:|
+| **السنين** | The years | ا ل س ن ي ن | $1+30+60+50+10+50 = 201$ |
+| **والحساب** | And calculation | و ا ل ح س ا ب | $6+1+30+8+60+1+2 = 108$ |
+| **Total** | | | $\boxed{309}$ |
+
+**The gematria of "the years and calculation" equals 309 — the exact duration of the Cave sleepers!**
+
+### Discovery 2: Word Position in the Cave Story
+
+Counting words from the beginning of the Cave story (*"أم حسبت أن أصحاب الكهف..."*):
+
+$$\text{The word "ثلث" (three hundred) is word number } \boxed{309}$$
+
+**A numerical answer embedded within a textual answer!**
+
+### Discovery 3: Surah Al-Asr (The Time)
+
+| Surah | Order | Verses | Product |
+|:------|:-----:|:------:|:-------:|
+| **Al-Asr (العصر)** | 103 | 3 | $103 \times 3 = \boxed{309}$ |
+
+The surah about **Time** encodes the number of **years** the Cave sleepers remained!
+
+### Discovery 4: Cave Story Structure
+
+| Element | Value | Note |
+|:--------|:-----:|:-----|
+| Verses in Cave story | 18 | = Order of Surah Al-Kahf |
+| Letters in Cave story | 1401 | |
+| Gematria of "سورة الكهف" | 407 | |
+| **Sum** | $1401 + 407 = 1808$ | |
+
+And remarkably:
+
+$$\text{Gematria of "ثلث مائة سنين وازدادوا تسعا"} = 1808$$
+
+### Discovery 5: Connection to Total Quran Verses
+
+$$19 \times 309 = 5871$$
+
+$$\text{Gematria of "رقيمية" (Raqeemiya)} = 365 = \text{Days in a solar year}$$
+
+$$5871 + 365 = \boxed{6236} = \text{Total verses in the Quran!}$$
+
+### Discovery 6: Verse Count to End of Cave Story
+
+| From | To | Verse Count | Analysis |
+|:-----|:---|:-----------:|:---------|
+| Beginning of Quran | Verse 26 of Al-Kahf (end of story) | **2166** | $= 19 \times 114$ |
+| | | | $114 = $ Number of Surahs! |
+
+### Summary: The Number 309
+
+| Discovery | Formula | Result |
+|:----------|:--------|:-------|
+| Gematria | السنين والحساب | $= 309$ |
+| Word position | "ثلث" in Cave story | $= \text{word } 309$ |
+| Surah Al-Asr | $103 \times 3$ | $= 309$ |
+| Quran structure | $19 \times 309 + 365$ | $= 6236$ verses |
+| Verses to story end | $19 \times 114$ | $= 2166$ |
+
+> *Reference: Based on research by Bassam Jarrar in "ولتعلموا عدد السنين والحساب 309"*
+
+---
+
 ### The Location of the Cave | موقع الكهف
 
 > **A significant hypothesis:** The Cave of the People of the Cave is likely the cave beneath the **Dome of the Rock** in Al-Aqsa Mosque. It is the best cave atop a plateau matching all descriptions in the Surah.
