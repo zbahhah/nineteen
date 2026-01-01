@@ -1,7 +1,7 @@
 # nineteen
 Over it are nineteen
 
-# The Mathematical System of Prime Number 19
+# The Mathematical System of Prime Numbers 7 and 19: Complementary Primes in a Unified Mathematical Framework
 ## A Universal Invitation to Reflection
 
 ---
