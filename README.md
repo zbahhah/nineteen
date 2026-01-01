@@ -4,6 +4,297 @@ Over it are nineteen
 # The Mathematical System of Prime Numbers 7 and 19: Complementary Primes in a Unified Mathematical Framework
 ## A Universal Invitation to Reflection
 
+
+# Table of Contents | فهرس المحتويات
+
+---
+
+> **Navigation | التنقل:** Click on any section to jump directly | اضغط على أي قسم للانتقال مباشرة
+
+---
+
+## 📖 Overview | نظرة عامة
+
+- [Introduction | مقدمة](#introduction--مقدمة)
+- [Abstract | الملخص](#abstract--الملخص)
+
+---
+
+## Part I: Mathematical & Physical Discoveries
+## الجزء الأول: الاكتشافات الرياضية والفيزيائية
+
+- [1.1 The Central Equation | المعادلة المركزية](#11-the-central-equation--المعادلة-المركزية)
+- [1.2 Fine Structure Constant (α) | ثابت البنية الدقيقة](#12-fine-structure-constant-α--ثابت-البنية-الدقيقة)
+- [1.3 Electron Mass | كتلة الإلكترون](#13-electron-mass--كتلة-الإلكترون)
+- [1.4 Euler's Number (e) | عدد أويلر](#14-eulers-number-e--عدد-أويلر)
+- [1.5 Speed of Light (c) | سرعة الضوء](#15-speed-of-light-c--سرعة-الضوء)
+- [1.6 Proton-Electron Mass Ratio | نسبة كتلة البروتون للإلكترون](#16-proton-electron-mass-ratio--نسبة-كتلة-البروتون-للإلكترون)
+- [1.7 Complete Results Table | جدول النتائج الكامل](#17-complete-results-table--جدول-النتائج-الكامل)
+
+---
+
+## Part II: Observations from Ancient Texts
+## الجزء الثاني: ملاحظات من النصوص القديمة
+
+- [2.1 The Verse: "Over it are Nineteen" | الآية: "عليها تسعة عشر"](#21-the-verse-over-it-are-nineteen--الآية-عليها-تسعة-عشر)
+- [2.2 Structural Observations | الملاحظات البنيوية](#22-structural-observations--الملاحظات-البنيوية)
+- [2.3 The Number 114 | العدد 114](#23-the-number-114--العدد-114)
+- [2.4 Basmalah Analysis | تحليل البسملة](#24-basmalah-analysis--تحليل-البسملة)
+
+---
+
+## Part III: The Unified System S₁₉
+## الجزء الثالث: المنظومة الموحدة S₁₉
+
+- [3.1 System Definition | تعريف المنظومة](#31-system-definition--تعريف-المنظومة)
+- [3.2 The Fundamental Constant eₚ | الثابت الأساسي eₚ](#32-the-fundamental-constant-eₚ--الثابت-الأساسي-eₚ)
+- [3.3 Derived Constants | الثوابت المشتقة](#33-derived-constants--الثوابت-المشتقة)
+- [3.4 Accuracy Rankings | ترتيب الدقة](#34-accuracy-rankings--ترتيب-الدقة)
+- [3.5 Statistical Summary | الملخص الإحصائي](#35-statistical-summary--الملخص-الإحصائي)
+
+---
+
+## Part IV: The Seven Entries Discovery
+## الجزء الرابع: اكتشاف البوابات السبع
+
+- [4.1 The Equation 7e = 19 | المعادلة 7e = 19](#41-the-equation-7e--19--المعادلة-7e--19)
+- [4.2 Quranic Connection | الربط القرآني](#42-quranic-connection--الربط-القرآني)
+- [4.3 The Interpretation of "e" as Entry | تفسير "e" كبوابة](#43-the-interpretation-of-e-as-entry--تفسير-e-كبوابة)
+- [4.4 Verse Distance Analysis | تحليل المسافات بين الآيات](#44-verse-distance-analysis--تحليل-المسافات-بين-الآيات)
+- [4.5 The Number 3679 | العدد 3679](#45-the-number-3679--العدد-3679)
+- [4.6 Visual Representation | التمثيل البصري](#46-visual-representation--التمثيل-البصري)
+- [4.7 The Word "Saqar" | كلمة "سقر"](#47-the-word-saqar--كلمة-سقر)
+- [4.8 The Prime Duality: 3, 4 & 7, 19 | الثنائية الأولية](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية)
+- [4.9 Summary | الخلاصة](#49-summary--الخلاصة)
+
+---
+
+## Part V: Cosmic Cycles & Iron
+## الجزء الخامس: الدورات الكونية والحديد
+
+- [5.1 The Metonic Cycle | دورة ميتون](#51-the-metonic-cycle--دورة-ميتون)
+- [5.2 Solar Galactic Orbits | دورات الشمس المجرية](#52-solar-galactic-orbits--دورات-الشمس-المجرية)
+- [5.3 Surah Maryam: The 19th Surah | سورة مريم: السورة 19](#53-surah-maryam-the-19th-surah--سورة-مريم-السورة-19)
+- [5.4 Iron: Surah 57 | الحديد: السورة 57](#54-iron-surah-57--الحديد-السورة-57)
+- [5.5 Iron Isotope Fe-57 | نظير الحديد Fe-57](#55-iron-isotope-fe-57--نظير-الحديد-fe-57)
+- [5.6 Cosmic Origin of Iron | الأصل الكوني للحديد](#56-cosmic-origin-of-iron--الأصل-الكوني-للحديد)
+- [5.7 Complete Table of 19 | الجدول الشامل للعدد 19](#57-complete-table-of-19--الجدول-الشامل-للعدد-19)
+
+---
+
+## Part VI: The Self-Referential Pattern
+## الجزء السادس: نمط العدد ذاتي المرجعية
+
+- [6.1 The Number 285 | العدد 285](#61-the-number-285--العدد-285)
+- [6.2 Word 285 in Surah Al-Jinn | الكلمة 285 في سورة الجن](#62-word-285-in-surah-al-jinn--الكلمة-285-في-سورة-الجن)
+- [6.3 The Verse Analysis | تحليل الآية](#63-the-verse-analysis--تحليل-الآية)
+- [6.4 Self-Reference Structure | البنية ذاتية المرجعية](#64-self-reference-structure--البنية-ذاتية-المرجعية)
+- [6.5 Mathematical Verification | التحقق الرياضي](#65-mathematical-verification--التحقق-الرياضي)
+
+---
+
+## Part VII: Surah Maryam — Adam & Jesus
+## الجزء السابع: سورة مريم — آدم وعيسى
+
+- [7.1 The Gematria of Adam | جُمَّل آدم](#71-the-gematria-of-adam--جُمَّل-آدم)
+- [7.2 The Gematria of Jesus | جُمَّل عيسى](#72-the-gematria-of-jesus--جُمَّل-عيسى)
+- [7.3 Equal Mentions: 25 = 25 | التكرار المتساوي](#73-equal-mentions-25--25--التكرار-المتساوي)
+- [7.4 The Distance: 1957 Verses | المسافة: 1957 آية](#74-the-distance-1957-verses--المسافة-1957-آية)
+- [7.5 Gematria Connections | روابط الجُمَّل](#75-gematria-connections--روابط-الجُمَّل)
+- [7.6 Verse 19:19 | الآية 19 من السورة 19](#76-verse-1919--الآية-19-من-السورة-19)
+- [7.7 Word Endings Pattern | نمط نهايات الكلمات](#77-word-endings-pattern--نمط-نهايات-الكلمات)
+
+---
+
+## Part VIII: Reflections & Open Questions
+## الجزء الثامن: التأملات والأسئلة المفتوحة
+
+- [8.1 What We Know | ما نعرفه](#81-what-we-know--ما-نعرفه)
+- [8.2 What Remains Unknown | ما لا نعرفه](#82-what-remains-unknown--ما-لا-نعرفه)
+- [8.3 Possible Interpretations | التفسيرات المحتملة](#83-possible-interpretations--التفسيرات-المحتملة)
+- [8.4 Invitation to Research | دعوة للبحث](#84-invitation-to-research--دعوة-للبحث)
+
+---
+
+## Conclusion | الخاتمة
+
+- [The Complete Picture | الصورة الكاملة](#the-complete-picture--الصورة-الكاملة)
+- [Mathematically Proven | ما تم إثباته رياضياً](#mathematically-proven--ما-تم-إثباته-رياضياً)
+- [Worth Further Research | ما يستحق مزيداً من البحث](#worth-further-research--ما-يستحق-مزيداً-من-البحث)
+- [Open Questions | الأسئلة المفتوحة](#open-questions--الأسئلة-المفتوحة)
+- [Final Invitation | الدعوة الأخيرة](#final-invitation--الدعوة-الأخيرة)
+
+---
+
+## References & Verification | المراجع والتحقق
+
+- [Scientific References | المراجع العلمية](#scientific-references--المراجع-العلمية)
+- [Quranic Research Centers | مراكز البحث القرآني](#quranic-research-centers--مراكز-البحث-القرآني)
+- [Video References | مراجع الفيديو](#video-references--مراجع-الفيديو)
+- [Verification Methods | طرق التحقق](#verification-methods--طرق-التحقق)
+
+---
+
+## Appendices | الملاحق
+
+- [Appendix A: Python Verification Code | كود التحقق](#appendix-a-python-verification-code--كود-التحقق)
+- [Appendix B: CODATA Values | قيم CODATA](#appendix-b-codata-values--قيم-codata)
+- [Appendix C: Gematria Tables | جداول الجُمَّل](#appendix-c-gematria-tables--جداول-الجُمَّل)
+
+---
+
+## 📊 Quick Navigation by Topic | تنقل سريع حسب الموضوع
+
+### Mathematics | الرياضيات
+| Topic | Section |
+|-------|---------|
+| 7e = 19 | [Part I](#part-i-mathematical--physical-discoveries), [Part IV](#part-iv-the-seven-entries-discovery) |
+| Fine Structure α | [1.2](#12-fine-structure-constant-α--ثابت-البنية-الدقيقة) |
+| Euler's Number | [1.4](#14-eulers-number-e--عدد-أويلر) |
+| Prime Duality 7-19 | [4.8](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية) |
+
+### Physics | الفيزياء
+| Topic | Section |
+|-------|---------|
+| Speed of Light | [1.5](#15-speed-of-light-c--سرعة-الضوء) |
+| Electron Mass | [1.3](#13-electron-mass--كتلة-الإلكترون) |
+| Iron Origin | [5.6](#56-cosmic-origin-of-iron--الأصل-الكوني-للحديد) |
+
+### Quranic Patterns | الأنماط القرآنية
+| Topic | Section |
+|-------|---------|
+| Basmalah | [2.4](#24-basmalah-analysis--تحليل-البسملة) |
+| Adam & Jesus | [Part VII](#part-vii-surah-maryam--adam--jesus) |
+| Self-Reference (285) | [Part VI](#part-vi-the-self-referential-pattern) |
+| Seven Gates | [Part IV](#part-iv-the-seven-entries-discovery) |
+
+### Astronomy | الفلك
+| Topic | Section |
+|-------|---------|
+| Metonic Cycle | [5.1](#51-the-metonic-cycle--دورة-ميتون) |
+| Galactic Orbits | [5.2](#52-solar-galactic-orbits--دورات-الشمس-المجرية) |
+
+---
+
+## 🔢 Index of Key Numbers | فهرس الأعداد المحورية
+
+| Number | Significance | Section |
+|--------|--------------|---------|
+| **3, 4** | Building blocks (3+4=7, 3×4=12) | [4.8](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية) |
+| **7** | Week days, 4th prime, denominator | [Part I](#part-i-mathematical--physical-discoveries), [Part IV](#part-iv-the-seven-entries-discovery) |
+| **12** | Bridge (7+12=19) | [4.8](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية) |
+| **19** | Central prime, guardians | Throughout |
+| **25** | Adam & Jesus mentions | [7.3](#73-equal-mentions-25--25--التكرار-المتساوي) |
+| **46** | Chromosomes, Adam gematria | [7.1](#71-the-gematria-of-adam--جُمَّل-آدم) |
+| **57** | Surah Al-Hadid, Fe-57 | [5.4](#54-iron-surah-57--الحديد-السورة-57) |
+| **114** | Surahs (19×6) | [2.3](#23-the-number-114--العدد-114) |
+| **137** | 1/α ≈ 7×19+4 | [1.2](#12-fine-structure-constant-α--ثابت-البنية-الدقيقة) |
+| **285** | Integers in Quran (19×15) | [Part VI](#part-vi-the-self-referential-pattern) |
+| **1957** | Verse distance (19×103) | [7.4](#74-the-distance-1957-verses--المسافة-1957-آية) |
+| **3679** | Related to 1/e | [4.5](#45-the-number-3679--العدد-3679) |
+
+---
+
+## 📐 Index of Key Equations | فهرس المعادلات الرئيسية
+
+| Equation | Meaning | Section |
+|----------|---------|---------|
+| $7e \approx 19$ | Fundamental relationship | [1.1](#11-the-central-equation--المعادلة-المركزية) |
+| $e_p = 19/7$ | System constant | [3.2](#32-the-fundamental-constant-eₚ--الثابت-الأساسي-eₚ) |
+| $1/\alpha \approx 7p + 4$ | Fine structure | [1.2](#12-fine-structure-constant-α--ثابت-البنية-الدقيقة) |
+| $3 + 4 = 7$ | Prime duality | [4.8](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية) |
+| $3 \times 4 = 12$ | Prime duality | [4.8](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية) |
+| $7 + 12 = 19$ | Prime duality | [4.8](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية) |
+| $285 = 19 \times 15$ | Self-reference | [6.1](#61-the-number-285--العدد-285) |
+| $1957 = 19 \times 103$ | Verse distance | [7.4](#74-the-distance-1957-verses--المسافة-1957-آية) |
+
+---
+
+$$\boxed{\LARGE 19}$$
+
+---
+
+*Last Updated | آخر تحديث: January 2026*
+
+*Version | الإصدار: 2.0*
+
+---
+
+## 📊 Quick Navigation by Topic | تنقل سريع حسب الموضوع
+
+### Mathematics | الرياضيات
+| Topic | Section |
+|-------|---------|
+| 7e = 19 | [Part I](#part-i-mathematical--physical-discoveries), [Part IV](#part-iv-the-seven-entries-discovery) |
+| Fine Structure α | [1.2](#12-fine-structure-constant-α--ثابت-البنية-الدقيقة) |
+| Euler's Number | [1.4](#14-eulers-number-e--عدد-أويلر) |
+| Prime Duality 7-19 | [4.8](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية) |
+
+### Physics | الفيزياء
+| Topic | Section |
+|-------|---------|
+| Speed of Light | [1.5](#15-speed-of-light-c--سرعة-الضوء) |
+| Electron Mass | [1.3](#13-electron-mass--كتلة-الإلكترون) |
+| Iron Origin | [5.6](#56-cosmic-origin-of-iron--الأصل-الكوني-للحديد) |
+
+### Quranic Patterns | الأنماط القرآنية
+| Topic | Section |
+|-------|---------|
+| Basmalah | [2.4](#24-basmalah-analysis--تحليل-البسملة) |
+| Adam & Jesus | [Part VII](#part-vii-surah-maryam--adam--jesus) |
+| Self-Reference (285) | [Part VI](#part-vi-the-self-referential-pattern) |
+| Seven Gates | [Part IV](#part-iv-the-seven-entries-discovery) |
+
+### Astronomy | الفلك
+| Topic | Section |
+|-------|---------|
+| Metonic Cycle | [5.1](#51-the-metonic-cycle--دورة-ميتون) |
+| Galactic Orbits | [5.2](#52-solar-galactic-orbits--دورات-الشمس-المجرية) |
+
+---
+
+## 🔢 Index of Key Numbers | فهرس الأعداد المحورية
+
+| Number | Significance | Section |
+|--------|--------------|---------|
+| **3, 4** | Building blocks (3+4=7, 3×4=12) | [4.8](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية) |
+| **7** | Week days, 4th prime, denominator | [Part I](#part-i-mathematical--physical-discoveries), [Part IV](#part-iv-the-seven-entries-discovery) |
+| **12** | Bridge (7+12=19) | [4.8](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية) |
+| **19** | Central prime, guardians | Throughout |
+| **25** | Adam & Jesus mentions | [7.3](#73-equal-mentions-25--25--التكرار-المتساوي) |
+| **46** | Chromosomes, Adam gematria | [7.1](#71-the-gematria-of-adam--جُمَّل-آدم) |
+| **57** | Surah Al-Hadid, Fe-57 | [5.4](#54-iron-surah-57--الحديد-السورة-57) |
+| **114** | Surahs (19×6) | [2.3](#23-the-number-114--العدد-114) |
+| **137** | 1/α ≈ 7×19+4 | [1.2](#12-fine-structure-constant-α--ثابت-البنية-الدقيقة) |
+| **285** | Integers in Quran (19×15) | [Part VI](#part-vi-the-self-referential-pattern) |
+| **1957** | Verse distance (19×103) | [7.4](#74-the-distance-1957-verses--المسافة-1957-آية) |
+| **3679** | Related to 1/e | [4.5](#45-the-number-3679--العدد-3679) |
+
+---
+
+## 📐 Index of Key Equations | فهرس المعادلات الرئيسية
+
+| Equation | Meaning | Section |
+|----------|---------|---------|
+| $7e \approx 19$ | Fundamental relationship | [1.1](#11-the-central-equation--المعادلة-المركزية) |
+| $e_p = 19/7$ | System constant | [3.2](#32-the-fundamental-constant-eₚ--الثابت-الأساسي-eₚ) |
+| $1/\alpha \approx 7p + 4$ | Fine structure | [1.2](#12-fine-structure-constant-α--ثابت-البنية-الدقيقة) |
+| $3 + 4 = 7$ | Prime duality | [4.8](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية) |
+| $3 \times 4 = 12$ | Prime duality | [4.8](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية) |
+| $7 + 12 = 19$ | Prime duality | [4.8](#48-the-prime-duality-3-4--7-19--الثنائية-الأولية) |
+| $285 = 19 \times 15$ | Self-reference | [6.1](#61-the-number-285--العدد-285) |
+| $1957 = 19 \times 103$ | Verse distance | [7.4](#74-the-distance-1957-verses--المسافة-1957-آية) |
+
+---
+
+$$\boxed{\LARGE 19}$$
+
+---
+
+*Last Updated | آخر تحديث: January 2026*
+
+*Version | الإصدار: 2.0*
+
 ---
 
 # مقدمة | Introduction
