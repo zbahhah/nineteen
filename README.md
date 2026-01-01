@@ -860,11 +860,7 @@ $$\boxed{7 \times 19 + 4 = 137 = \frac{1}{\alpha}}$$
 
 ### The Fundamental Building Blocks | اللبنات الأساسية
 
-$$\boxed{\begin{aligned}
-3 + 4 &= 7 \\[8pt]
-3 \times 4 &= 12 \\[8pt]
-7 + 12 &= 19
-\end{aligned}}$$
+$$3 + 4 = 7 \qquad 3 \times 4 = 12 \qquad 7 + 12 = 19$$
 
 > **English:** The numbers 3 and 4 generate the entire system: their **sum** gives 7, their **product** gives 12, and the **sum of these results** gives 19.
 >
@@ -1046,12 +1042,7 @@ $$\text{Seven Entries} \times e = \text{Nineteen Guardians}$$
 
 ## 4.9 Summary | الخلاصة
 
-$$\boxed{\begin{aligned}
-&\text{Seven Gates (سبعة أبواب)} \xrightarrow{+3668} \text{Verse 19} \\[10pt]
-&\text{Verse 19} \xrightarrow{+7} \text{Saqar (سَقَر)} \\[10pt]
-&\text{Saqar} \xrightarrow{+4} \text{"Over it are Nineteen" (عليها تسعة عشر)} \\[10pt]
-&7 \times e = 19
-\end{aligned}}$$
+$$\text{Seven Gates} \longrightarrow \text{Verse 19} \longrightarrow \text{Saqar} \longrightarrow \text{"عليها تسعة عشر"} \longrightarrow 7e = 19$$
 
 ---
 
