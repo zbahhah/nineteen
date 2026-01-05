@@ -601,6 +601,7 @@ $$\frac{2}{1} \to \frac{3}{1} \to \frac{8}{3} \to \frac{11}{4} \to \boxed{\frac{
 |:--------|:------|:------------|
 | **Quran 74:30** | 19 | *"Over it is Nineteen"* / *"عليها تسعة عشر"* |
 | **Quran 15:44** | 7 | *"It has Seven gates"* / *"لها سبعة أبواب"* (Ayah **44**) |
+| **Quran 74:30** | 44 | *74 - 30 = 44* |
 | **44th Prime** | 193 | Connects to Ayah 44 |
 | **Verses Between** | 3667 | $= 193 \times 19$ |
 
